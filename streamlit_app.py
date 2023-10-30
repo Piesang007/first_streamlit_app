@@ -1,3 +1,3 @@
 import streamlit
 
-streamlt.title("My Parents New Health Diner");
+streamlit.title("My Parent's New Health Diner");
