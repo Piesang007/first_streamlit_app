@@ -48,5 +48,5 @@ add_my_fruit = streamlit.multiselect("What Fruit would you like to add?", list(m
 streamlit.write('Thanks for adding ',add_my_fruit)
 
 #will not work correctly
-my_cur.execute("insert into fruit_load_list_values (' from streamlit')")
+my_cur.execute("insert into fruit_load_list_values ('from streamlit')")
 
